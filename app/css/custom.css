@@ -1,0 +1,133 @@
+h1{
+	font-size: 1.5em;
+}
+a.button_type_7{
+	padding: 5px 0 0 8px;
+}
+.categories_list li a b{
+	color: #e74c3c;
+}
+.categories_list li.active a b{
+	color: #e74c3c;
+}
+.categories_list li a b:hover{
+	color: #323a45;
+}
+img.blog{
+	width: 300px;
+}
+img.blog-small{
+	width: 80px;
+}
+.width_60{
+	max-width: 60px;
+	max-height: 60px;
+}
+.width_80{
+	max-width: 80px;
+	max-height: 80px;
+}
+.width_110{
+	max-width: 110px;
+	max-height: 110px;
+}
+.width_242{
+	max-width: 242px;
+	max-height: 242px;
+}
+td .product_name{
+	width: 60%;
+}
+#term-of-service{
+	max-height: 250px;
+	overflow-y: scroll;
+}
+#zoom_image{
+	width: 438px;
+	height: 438px;
+}
+select{
+	padding:3px;
+    margin: 0;
+    -webkit-border-radius:4px;
+    -moz-border-radius:4px;
+    border-radius:4px;
+    background: #ecf0f1;
+    color:#292f38;
+    border:none;
+    outline:none;
+    display: inline-block;
+    -webkit-appearance:none;
+    -moz-appearance:none;
+    appearance:none;
+    cursor:pointer;
+    height: 30px;
+}
+#loading-cart{
+	position: fixed;
+	top: 50%;
+	left: 50%;
+	margin-top: -100px;
+	margin-left: -128px;
+	background-color: #e74c3c;
+	padding: 15px 20px 14px;
+	z-index: 9;
+	-webkit-border-radius:4px;
+    -moz-border-radius:4px;
+    border-radius:4px;
+    -webkit-box-shadow: 0 3px 0 #ccc, 0 -1px #e74c3c inset;
+    -moz-box-shadow: 0 3px 0 #ccc, 0 -1px #e74c3c inset;
+    box-shadow: 0 3px 0 #ccc, 0 -1px #e74c3c inset;
+    color: #fff;
+    display:none;
+}
+#loading-cart img{
+	margin-left: 90px;
+}
+.tabs.vertical .tabs_nav{
+	width: 20%;
+}
+.tabs.vertical .tabs_content{
+	width: 80%;
+}
+.radius-5{
+	-webkit-border-radius:5px;
+    -moz-border-radius:5px;
+    border-radius:5px;
+}
+ul.slides li section{
+	background-color:rgba(50, 58, 69, 0.5);
+}
+.slide_caption{
+	right: 195px;
+}
+#term-of-service h2:first-child{
+	margin-top: 0;
+}
+#term-of-service h2{
+	font-weight: bolder;
+	margin-top: 10px;
+}
+#term-of-service h3{
+	margin-top: 5px;
+}
+.right-slide, .right-slide2{
+	position: absolute; 
+	left: 10px; 
+	bottom: 25px;
+	font-size: 1.2em;
+}
+.right-slide2{
+	right: 20px;
+}
+.right-slide h3, .right-slide2 h3{
+	margin-top: 15px;
+	font-weight: 900;
+	font-size: 3.4em
+}
+.right-slide s, .right-slide2 s{
+	color: #fff !important;
+}
+.menu_manufacturers li a{
+	padding: 3px 20px !important;
+}
